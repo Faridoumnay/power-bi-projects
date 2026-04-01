@@ -46,7 +46,7 @@ Dataset : Super Store (ventes retail USA)
 
 Cloner le repository :
 
-bash   git clone https://github.com/Farid oumnay/power-bi-projects.git
+bash   git clone https://github.com/Faridoumnay/power-bi-projects.git
 
 Ouvrir le fichier .pbix avec Power BI Desktop
 Explorer les différentes pages du dashboard
